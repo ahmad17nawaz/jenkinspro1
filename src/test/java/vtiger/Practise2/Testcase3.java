@@ -9,6 +9,6 @@ public class Testcase3 {
 	@Test
 	public void tc3()
 	{
-		Reporter.log("Hello Java");
+		Reporter.log("Hello Java",true);
 	}
 }
